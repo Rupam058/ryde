@@ -27,7 +27,7 @@ const RideCard = ({
           className="w-[80px] h-[90px] rounded-lg"
         />
 
-        <View className="flex flex-col ms-5 gap-y-5 flex-1">
+        <View className="flex flex-col mx-5 gap-y-5 flex-1">
           <View className="flex flex-row items-center gap-x-2">
             <Image source={icons.to} className="w-5 h-5" />
             <Text className="text-md font-JakartaMedium" numberOfLines={1}>
